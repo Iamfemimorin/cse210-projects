@@ -6,7 +6,7 @@ public class Reference
     private int _verseStart;
     private int? _verseEnd;
 
-    // Single verse
+    // This is just a single verse
     public Reference(string book, int chapter, int verse)
     {
         _book = book;
@@ -15,7 +15,7 @@ public class Reference
         _verseEnd = null;
     }
 
-    // Verse range
+    // I made this to be the verse range
     public Reference(string book, int chapter, int verseStart, int verseEnd)
     {
         _book = book;
@@ -23,7 +23,8 @@ public class Reference
         _verseStart = verseStart;
         _verseEnd = verseEnd;
     }
-
+    
+    // This returns formatted reference text
     public string GetDisplayText()
     {
         if (_verseEnd == null)
