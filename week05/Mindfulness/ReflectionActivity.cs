@@ -1,6 +1,3 @@
-// Reflection Activity
-// Helps users reflect on meaningful experiences.
-
 using System;
 using System.Collections.Generic;
 

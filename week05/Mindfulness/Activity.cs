@@ -1,6 +1,3 @@
-// Base Activity Class
-// Contains shared functionality used by all activities.
-
 using System;
 using System.Threading;
 

@@ -1,6 +1,3 @@
-// Breathing Activity
-// Guides the user through slow breathing.
-
 using System;
 
 public class BreathingActivity : Activity

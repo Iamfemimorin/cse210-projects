@@ -1,5 +1,3 @@
-// MathAssignment.cs
-// Derived class for Math assignments.
 // Inherits student name and topic from Assignment.
 
 public class MathAssignment : Assignment

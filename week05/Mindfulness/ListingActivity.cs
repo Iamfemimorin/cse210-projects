@@ -1,6 +1,3 @@
-// Listing Activity
-// Helps users list positive things in their lives.
-
 using System;
 using System.Collections.Generic;
 

@@ -1,4 +1,3 @@
-// W05 Learning Activity - Inheritance
 // Derived class for Writing assignments.
 
 public class WritingAssignment : Assignment

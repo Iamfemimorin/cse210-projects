@@ -1,6 +1,3 @@
-// Gratitude Activity
-// Extra activity added to exceed assignment requirements.
-
 using System;
 
 public class GratitudeActivity : Activity

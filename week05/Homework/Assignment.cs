@@ -1,13 +1,11 @@
 // W05 Learning Activity - Inheritance
-// Base Assignment class
-// Stores common information for all assignments.
 
 public class Assignment
 {
     private string _studentName;
     private string _topic;
 
-    // Constructor to initialize assignment details
+    // This is for Constructor to initialize assignment details
     public Assignment(string studentName, string topic)
     {
         _studentName = studentName;

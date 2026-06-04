@@ -1,10 +1,5 @@
 // W05 Mindfulness Program
-// Student: Your Name
-//
-// Creativity Added:
-// - Added a fourth activity called Gratitude Activity.
-// - This activity encourages users to reflect on things they are grateful for.
-// - This exceeds the core requirements by providing an additional mindfulness exercise.
+// Student: Martins Chinedu Amorin
 
 using System;
 
